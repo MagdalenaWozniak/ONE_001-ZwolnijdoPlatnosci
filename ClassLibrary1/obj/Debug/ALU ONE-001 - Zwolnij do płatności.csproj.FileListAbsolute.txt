@@ -1,0 +1,17 @@
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\bin\Debug\CdnHydra.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\obj\Debug\ALU ONE-001 - Zwolnij do płatności.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\obj\Debug\ALU ONE-001 - Zwolnij do płatności.csproj.CopyComplete
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\bin\Debug\ONE001.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\bin\Debug\ONE001.pdb
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\obj\Debug\ONE001.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\obj\Debug\ONE001.pdb
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\Atrybut na platnosciach\ClassLibrary1\obj\Debug\ALU ONE-001 - Zwolnij do płatności.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\bin\Debug\ONE001.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\bin\Debug\ONE001.pdb
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\obj\Debug\ALU ONE-001 - Zwolnij do płatności.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\obj\Debug\ALU ONE-001 - Zwolnij do płatności.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\obj\Debug\ALU ONE-001 - Zwolnij do płatności.csproj.CopyComplete
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\obj\Debug\ONE001.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-001 - Atrybut na platnosciach — kopia\ClassLibrary1\obj\Debug\ONE001.pdb

@@ -1,0 +1,17 @@
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\CdnHydra.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ADODB.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\CDNImportGUS.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ErpGanttWindowsFormsHost.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ErpGantt.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\cdn_api20172.net.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\CdnHydra.xml
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\krzys\Documents\Visual Studio 2017\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
